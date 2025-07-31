@@ -1,1 +1,2 @@
-# This is a program for real-time subscription-style Python example using WebSockets to get live cryptocurrency prices
+# liveprice
+This is a program for real-time subscription-style Python example using WebSockets to get live cryptocurrency prices
